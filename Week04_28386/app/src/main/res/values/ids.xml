@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="third_activity_fragment_1" type="id" />
+    <item name="third_activity_fragment_2" type="id" />
+    <item name="main_button_change_1" type="id" />
+    <item name="main_button_change_2" type="id" />
+</resources>
